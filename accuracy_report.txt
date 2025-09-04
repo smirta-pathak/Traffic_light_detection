@@ -1,0 +1,7 @@
+Traffic Light Detection Accuracy Report
+Total Frames Proccessed: 229
+Total Processing Time: 5.34
+FPS: 42.88
+Red- True Positives: 211, False Positives: 347, Precison: 0.38, Recall: 0.92
+Yellow- True Positives: 555, False Positives: 4177, Precison: 0.12, Recall: 2.42
+Green- True Positives: 626, False Positives: 1356, Precison: 0.32, Recall: 2.73
